@@ -1,0 +1,9 @@
+package com.lirik.generic.oop.weapon;
+
+public class Wand implements MagicWeapon{
+
+    @Override
+    public int getDamage() {
+        return 40;
+    }
+}
