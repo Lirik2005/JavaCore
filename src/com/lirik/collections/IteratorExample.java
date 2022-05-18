@@ -1,4 +1,4 @@
-package com.lirik.iterator;
+package com.lirik.collections;
 
 import java.util.ArrayList;
 import java.util.Iterator;
