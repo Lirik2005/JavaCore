@@ -15,7 +15,5 @@ public class Task_06 {
 
         long endTime = System.currentTimeMillis();
         System.out.println("Time: " + (endTime - startTime));
-
     }
-
 }
